@@ -6,9 +6,13 @@ Halation is a desktop 3D authoring tool where a person and an AI agent work on t
 
 Built by [Nat Bishop](https://github.com/nat-bishop). **Project showcase; source private.** A demo or code walkthrough is available on request.
 
-![A volcanic massif at dusk with a smoke plume, rendered in Cycles](docs/hero.png)
+![Four robot arms around a conveyor and workbenches, rendered in Halation](docs/media/halation-workcell.png)
 
-*A rendered scene from the September 2026 VFX showcase.*
+*An authored procedural assembly, rendered in Halation.*
+
+![Three gripper designs: curved opposed jaws, slim precision jaws and broad parallel jaws](docs/media/halation-pincer-options.jpg)
+
+*Three authored gripper variants share the same arm geometry. These demonstration assets illustrate procedural construction and variation; the images do not establish autonomous generation or physics validation.*
 
 ## What I built
 
@@ -38,6 +42,10 @@ The clips below show questions and render review in the September 2026 interface
 | ![Selecting an answer to the agent's question](docs/media/halation-agent-question.gif) | ![Reviewing a rendered result at a checkpoint](docs/media/halation-render-judgement.gif) |
 
 ## Example outputs
+
+![A volcanic massif at dusk with a smoke plume, rendered in Cycles](docs/hero.png)
+
+*A rendered scene from the September 2026 VFX showcase.*
 
 | A server rack | An interior door | Eroded terrain |
 |---|---|---|
