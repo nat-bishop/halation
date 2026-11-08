@@ -17,9 +17,7 @@ Built by [Nat Bishop](https://github.com/nat-bishop). **Project showcase; source
 
 ## A failure caught and repaired
 
-<!-- VIDEO PLACEHOLDER: in GitHub's web editor, drag halation-agent-repair.mp4 onto this line.
-     GitHub uploads it to user-attachments and replaces this comment with a link that plays inline.
-     A committed .mp4 file does not play. Delete this comment once the video is in. -->
+https://github.com/user-attachments/assets/9eaaa90e-d0ab-4e20-9c50-188f761ec4ca
 
 *60 seconds, captioned. Gemini 3.8 Flash builds a procedural microwave from a commission. Certification in Isaac Sim finds the door stalling at 1.4° of 100°, blocked by a knob; the agent ties the door and knob positions to the width dial, and the second certification passes. Change a dial afterwards and Halation marks the recipe "changed since certified". The agent's turns replay a run recorded during an October 2026 eval; the build, renders and certification ran live in the app, with model requests switched off.*
 
